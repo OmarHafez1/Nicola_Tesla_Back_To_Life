@@ -5,6 +5,10 @@ Nikola Tesla using [LangChain](https://python.langchain.com/) and
 Google's Gemini models. You can ask about his inventions, ideas, and
 legacy, and the assistant will reply in Tesla's voice.
 
+<img></img>
+![Nikola Tesla!](images/nikola.jpg)
+
+
 ## Requirements
 
 - Python 3.10 or later
