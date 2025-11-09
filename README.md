@@ -48,8 +48,4 @@ press enter to hear Tesla's response. Type `exit` or `quit` (or press
 | `GEMINI_MODEL`       | Optional. Gemini model name to use (defaults to `gemini-1.5-flash-latest`). |
 | `GEMINI_TEMPERATURE` | Optional. Sampling temperature for the model (defaults 0.7)|
 
-## License
-
-This project is released under the MIT License. See [LICENSE](LICENSE)
-for details.
 # Nicola_Tesla_Back_To_Life
