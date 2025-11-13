@@ -1,4 +1,4 @@
-# Nicola Tesla: Back To Life
+# Nikola Tesla: Back To Life
 
 This repository provides a lightweight command-line chatbot that emulates
 Nikola Tesla using [LangChain](https://python.langchain.com/) and
